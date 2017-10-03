@@ -1,10 +1,10 @@
-#Generate TV Scripts
+# Generate TV Scripts
 
-##Introduction
+## Introduction
 
 In this project, I generated Simpsons TV scripts using RNNs and part of the Simpsons dataset of scripts from 27 seasons. The Neural Network built generates a new TV script for a scene at Moe's Tavern.
 
-##Hyperparameters
+## Hyperparameters
 
 * Number of Epochs: 150
 * Batch Size: 128
@@ -13,7 +13,7 @@ In this project, I generated Simpsons TV scripts using RNNs and part of the Simp
 * Sequence Length: 30
 * Learning Rate: 0.01
 
-##One sample script
+## One sample script
 
 moe_szyslak:(snide) well, well look who it is. mr." i don't need alcohol.
 moe_szyslak:(holding up nobel prize) we know that i'm not drunk will. the" flaming moe"?" there is not?"...
