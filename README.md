@@ -42,5 +42,5 @@ homer_simpson:
 ## Instructions
 
 * clone the project
-* execute **jupyter notebook dlnd_tv_script_generation.ipynb"
+* execute **jupyter notebook dlnd_tv_script_generation.ipynb**
 
